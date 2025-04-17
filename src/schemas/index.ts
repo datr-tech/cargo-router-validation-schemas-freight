@@ -1,0 +1,95 @@
+import campaignValidationSchemaCreateCampaignJson from './campaignValidationSchemaCreateCampaign.json';
+
+import campaignValidationSchemaUpdateCampaignJson from './campaignValidationSchemaUpdateCampaign.json';
+
+import campaignValidationSchemaReadCampaignJson from './campaignValidationSchemaReadCampaign.json';
+
+import campaignValidationSchemaDeleteCampaignJson from './campaignValidationSchemaDeleteCampaign.json';
+
+import campaignTypeValidationSchemaCreateCampaignTypeJson from './campaignTypeValidationSchemaCreateCampaignType.json';
+
+import campaignTypeValidationSchemaUpdateCampaignTypeJson from './campaignTypeValidationSchemaUpdateCampaignType.json';
+
+import campaignTypeValidationSchemaReadCampaignTypeJson from './campaignTypeValidationSchemaReadCampaignType.json';
+
+import campaignTypeValidationSchemaDeleteCampaignTypeJson from './campaignTypeValidationSchemaDeleteCampaignType.json';
+
+import projectValidationSchemaCreateProjectJson from './projectValidationSchemaCreateProject.json';
+
+import projectValidationSchemaUpdateProjectJson from './projectValidationSchemaUpdateProject.json';
+
+import projectValidationSchemaReadProjectJson from './projectValidationSchemaReadProject.json';
+
+import projectValidationSchemaDeleteProjectJson from './projectValidationSchemaDeleteProject.json';
+
+import projectTypeValidationSchemaCreateProjectTypeJson from './projectTypeValidationSchemaCreateProjectType.json';
+
+import projectTypeValidationSchemaUpdateProjectTypeJson from './projectTypeValidationSchemaUpdateProjectType.json';
+
+import projectTypeValidationSchemaReadProjectTypeJson from './projectTypeValidationSchemaReadProjectType.json';
+
+import projectTypeValidationSchemaDeleteProjectTypeJson from './projectTypeValidationSchemaDeleteProjectType.json';
+
+import templateValidationSchemaCreateTemplateJson from './templateValidationSchemaCreateTemplate.json';
+
+import templateValidationSchemaUpdateTemplateJson from './templateValidationSchemaUpdateTemplate.json';
+
+import templateValidationSchemaReadTemplateJson from './templateValidationSchemaReadTemplate.json';
+
+import templateValidationSchemaDeleteTemplateJson from './templateValidationSchemaDeleteTemplate.json';
+
+import templateTypeValidationSchemaCreateTemplateTypeJson from './templateTypeValidationSchemaCreateTemplateType.json';
+
+import templateTypeValidationSchemaUpdateTemplateTypeJson from './templateTypeValidationSchemaUpdateTemplateType.json';
+
+import templateTypeValidationSchemaReadTemplateTypeJson from './templateTypeValidationSchemaReadTemplateType.json';
+
+import templateTypeValidationSchemaDeleteTemplateTypeJson from './templateTypeValidationSchemaDeleteTemplateType.json';
+
+export const campaignValidationSchemaCreateCampaign = campaignValidationSchemaCreateCampaignJson;
+
+export const campaignValidationSchemaUpdateCampaign = campaignValidationSchemaUpdateCampaignJson;
+
+export const campaignValidationSchemaReadCampaign = campaignValidationSchemaReadCampaignJson;
+
+export const campaignValidationSchemaDeleteCampaign = campaignValidationSchemaDeleteCampaignJson;
+
+export const campaignTypeValidationSchemaCreateCampaignType = campaignTypeValidationSchemaCreateCampaignTypeJson;
+
+export const campaignTypeValidationSchemaUpdateCampaignType = campaignTypeValidationSchemaUpdateCampaignTypeJson;
+
+export const campaignTypeValidationSchemaReadCampaignType = campaignTypeValidationSchemaReadCampaignTypeJson;
+
+export const campaignTypeValidationSchemaDeleteCampaignType = campaignTypeValidationSchemaDeleteCampaignTypeJson;
+
+export const projectValidationSchemaCreateProject = projectValidationSchemaCreateProjectJson;
+
+export const projectValidationSchemaUpdateProject = projectValidationSchemaUpdateProjectJson;
+
+export const projectValidationSchemaReadProject = projectValidationSchemaReadProjectJson;
+
+export const projectValidationSchemaDeleteProject = projectValidationSchemaDeleteProjectJson;
+
+export const projectTypeValidationSchemaCreateProjectType = projectTypeValidationSchemaCreateProjectTypeJson;
+
+export const projectTypeValidationSchemaUpdateProjectType = projectTypeValidationSchemaUpdateProjectTypeJson;
+
+export const projectTypeValidationSchemaReadProjectType = projectTypeValidationSchemaReadProjectTypeJson;
+
+export const projectTypeValidationSchemaDeleteProjectType = projectTypeValidationSchemaDeleteProjectTypeJson;
+
+export const templateValidationSchemaCreateTemplate = templateValidationSchemaCreateTemplateJson;
+
+export const templateValidationSchemaUpdateTemplate = templateValidationSchemaUpdateTemplateJson;
+
+export const templateValidationSchemaReadTemplate = templateValidationSchemaReadTemplateJson;
+
+export const templateValidationSchemaDeleteTemplate = templateValidationSchemaDeleteTemplateJson;
+
+export const templateTypeValidationSchemaCreateTemplateType = templateTypeValidationSchemaCreateTemplateTypeJson;
+
+export const templateTypeValidationSchemaUpdateTemplateType = templateTypeValidationSchemaUpdateTemplateTypeJson;
+
+export const templateTypeValidationSchemaReadTemplateType = templateTypeValidationSchemaReadTemplateTypeJson;
+
+export const templateTypeValidationSchemaDeleteTemplateType = templateTypeValidationSchemaDeleteTemplateTypeJson;
