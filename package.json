@@ -4,14 +4,14 @@
   "private": false,
   "description": "Cargo router validation schemas for freight",
   "keywords": [
-		"cargo",
+    "cargo",
     "datr.tech",
-		"freight",
-		"express",
-		"express-validator",
-		"router",
-		"schemas",
-		"typescript"
+    "freight",
+    "express",
+    "express-validator",
+    "router",
+    "schemas",
+    "typescript"
   ],
   "homepage": "https://github.com/datr.tech/cargo-router-validation-schemas-freight",
   "repository": {
